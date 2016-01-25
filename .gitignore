@@ -107,3 +107,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Cloudbot
+persist/
+logs/
+config.json
+*.db
+*.mmdb
+*.log
+.idea/
