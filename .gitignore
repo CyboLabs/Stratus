@@ -116,3 +116,4 @@ config.json
 *.mmdb
 *.log
 .idea/
+.venv/
