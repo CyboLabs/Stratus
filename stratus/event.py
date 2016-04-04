@@ -4,6 +4,7 @@ class ChatEvent:
     Examples include nick changing, a message, channel joins, etc.
     """
     def __init__(self, message):
+        pass
 
 
 class HookEvent:
